@@ -1,0 +1,93 @@
+canonical_identifier: bkk:krp/KR6h0018/v1
+canonical_location: https://kanripo.org/bkk/KR6h0018/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 地藏本願經綸貫
+  identifiers:
+    alt_id:
+    - X21n0383
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X21/X21n0383.xml
+    old_id: X21n0383
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6h0018_000.yaml, hash: 'sha256:046943eb30b21fc6524306b50108020d2c263e65478e1ba3e7fb5b8a84c90246'}
+  - {seq: 1, filename: KR6h0018_001.yaml, hash: 'sha256:f97fbbc203001cb1a56fbbbdc200f93c592af5150c4e53361c07cb2849899578'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6h0018_000.markers.yaml, hash: 'sha256:46bd55f7269567795b13908f47e76b74d8d71ae512f1b121b26430a1c332a0b6'}
+  - {seq: 1, role: markers, filename: assets/KR6h0018_001.markers.yaml, hash: 'sha256:17633eb7b303ea9d2ad124554e1a88400fc907a468475e8e3e2bde54838ce10a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6h0018_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 383-A 地藏菩薩本願經科註序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6h0018_X_000-mulu-2
+    span:
+    - front
+    - 401
+    - 401
+  label: No. 383-B 地藏菩薩本願經科注序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6h0018_X_000-mulu-3
+    span:
+    - front
+    - 909
+    - 909
+  label: No. 383-C 地藏菩薩本願經科注序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6h0018_X_000-mulu-4
+    span:
+    - front
+    - 1652
+    - 1652
+  label: No. 383-D 地藏經綸貫科注緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6h0018_X_000-mulu-5
+    span:
+    - front
+    - 2421
+    - 2421
+  label: 地藏菩薩本願經綸貫
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6h0018_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 18678
+  label: 地藏菩薩本願經綸貫
+  type: juan
+  level: 1
+hash: sha256:3ed9a8538715eb92b559f365d481dba332742b4ade59bee2e86a5cbd450336a8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
