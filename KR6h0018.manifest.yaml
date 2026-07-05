@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6h0018_000.yaml, hash: 'sha256:046943eb30b21fc6524306b50108020d2c263e65478e1ba3e7fb5b8a84c90246'}
-  - {seq: 1, filename: KR6h0018_001.yaml, hash: 'sha256:f97fbbc203001cb1a56fbbbdc200f93c592af5150c4e53361c07cb2849899578'}
+  - {seq: 0, filename: KR6h0018_000.yaml, hash: 'sha256:df19dbbde4247ebc55f161a6871d6509264cb88e59dd171e25a05f1b1b701b69'}
+  - {seq: 1, filename: KR6h0018_001.yaml, hash: 'sha256:708e20e13bee1a70c8c23285aa67ebdbecab9e9a6d91f3a1d03d7a60415f6a8d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6h0018_000.markers.yaml, hash: 'sha256:46bd55f7269567795b13908f47e76b74d8d71ae512f1b121b26430a1c332a0b6'}
-  - {seq: 1, role: markers, filename: assets/KR6h0018_001.markers.yaml, hash: 'sha256:17633eb7b303ea9d2ad124554e1a88400fc907a468475e8e3e2bde54838ce10a'}
+  - {seq: 0, role: markers, filename: assets/KR6h0018_000.markers.yaml, hash: 'sha256:fab39f3308869369bba9c8578bc4e0b33151b823aa36bb44ba24254bbe9f0329'}
+  - {seq: 1, role: markers, filename: assets/KR6h0018_001.markers.yaml, hash: 'sha256:7415b6e3945990b31431884166159ec706ea89583bb67febc22126e6220c6f0a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -87,7 +87,4 @@ table_of_contents:
   label: 地藏菩薩本願經綸貫
   type: juan
   level: 1
-hash: sha256:3ed9a8538715eb92b559f365d481dba332742b4ade59bee2e86a5cbd450336a8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:7b2e3375af699832916c19081f6e845fa81264ee6fa5ada4ba03f44829bbe524
