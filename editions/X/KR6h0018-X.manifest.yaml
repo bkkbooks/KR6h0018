@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6h0018_000-X.yaml, hash: 'sha256:df19dbbde4247ebc55f161a6871d6509264cb88e59dd171e25a05f1b1b701b69'}
+  - {seq: 0, filename: KR6h0018_000-X.yaml, hash: 'sha256:662ff8af5dc4e2a52bdba60db686026c6c83e888f9a0453d749bcaf076b6c98f'}
   - {seq: 1, filename: KR6h0018_001-X.yaml, hash: 'sha256:708e20e13bee1a70c8c23285aa67ebdbecab9e9a6d91f3a1d03d7a60415f6a8d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6h0018_000-X.markers.yaml, hash: 'sha256:b1652802a2c68e26d199b24b94bdd4eb1bb1194d5e801d61797fdf5c62489ad7'}
+  - {seq: 0, role: markers, filename: assets/KR6h0018_000-X.markers.yaml, hash: 'sha256:0a52fecb40fc5233ff63b87ef1e5310aee2f24d9edfec7e242ca963ff56a934c'}
   - {seq: 1, role: markers, filename: assets/KR6h0018_001-X.markers.yaml, hash: 'sha256:410c67496104f211839fe2903ad9dc79a199753a031e85e79d04451fee9d22c4'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6h0018_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 383-A 地藏菩薩本願經科註序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6h0018_X_000-mulu-2
     span:
-    - front
+    - body
     - 401
     - 401
   label: No. 383-B 地藏菩薩本願經科注序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6h0018_X_000-mulu-3
     span:
-    - front
+    - body
     - 909
     - 909
   label: No. 383-C 地藏菩薩本願經科注序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6h0018_X_000-mulu-4
     span:
-    - front
+    - body
     - 1652
     - 1652
   label: No. 383-D 地藏經綸貫科注緣起
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6h0018_X_000-mulu-5
     span:
-    - front
+    - body
     - 2421
     - 2421
   label: 地藏菩薩本願經綸貫
@@ -85,4 +85,4 @@ table_of_contents:
   label: 地藏菩薩本願經綸貫
   type: juan
   level: 1
-hash: sha256:3904e05ddc590b635c9d4424bd56ad5d1e0116aafaa22c314a8829342822ab68
+hash: sha256:499f905b5489b66c0ec2b8d2113c64013a4900002575af167f3f986314e8baac

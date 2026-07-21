@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6h0018_000.yaml, hash: 'sha256:22b4ca8d56c4b2047dd73944339cb7da8f364d48d4b3a485c7d9f2c4cad37e61'}
+  - {seq: 0, filename: KR6h0018_000.yaml, hash: 'sha256:556c580e1d44bde2b18851f6231f7434fb8c3ca5004c982290f2bdd846648bf0'}
   - {seq: 1, filename: KR6h0018_001.yaml, hash: 'sha256:fb98c934bc422d76c20b4f3a38588d99715fdd6cdea9818f4198b2b822bb3e1a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6h0018_000.markers.yaml, hash: 'sha256:25b154f363320a0c0d0518c750a5de57f16ebe64882f14970982e39c5991dda1'}
+  - {seq: 0, role: markers, filename: assets/KR6h0018_000.markers.yaml, hash: 'sha256:7b43fd1046d23359b0db384688e988513c8748580b35d4d4a70f70bdcc58d73e'}
   - {seq: 1, role: markers, filename: assets/KR6h0018_001.markers.yaml, hash: 'sha256:65a600c199ba928f09e149cb34ef8521810c629841ab542057700463ad521263'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6h0018_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 383-A 地藏菩薩本願經科註序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6h0018_X_000-mulu-2
     span:
-    - front
+    - body
     - 401
     - 401
   label: No. 383-B 地藏菩薩本願經科注序
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6h0018_X_000-mulu-3
     span:
-    - front
+    - body
     - 909
     - 909
   label: No. 383-C 地藏菩薩本願經科注序
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6h0018_X_000-mulu-4
     span:
-    - front
+    - body
     - 1652
     - 1652
   label: No. 383-D 地藏經綸貫科注緣起
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6h0018_X_000-mulu-5
     span:
-    - front
+    - body
     - 2421
     - 2421
   label: 地藏菩薩本願經綸貫
@@ -87,7 +87,7 @@ table_of_contents:
   label: 地藏菩薩本願經綸貫
   type: juan
   level: 1
-hash: sha256:e646471fa9e61d6e11cba3529a799b3c7ac8337dbeecba5e0cb5cbbccc253e45
+hash: sha256:1077f9c6356e20f40be5044ae081b09f98e153b322c138b308e9164d732d9b6f
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
